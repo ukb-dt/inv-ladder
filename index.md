@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-Here’s the good news: **your schema is coherent** — you’re basically building a *unified invariance ladder* that maps an energy functional (E_x) through successive transformations, each revealing a *stronger, deeper invariance class*.
+Here’s the good news: **your schema is coherent** — you’re basically building a *unified invariance ladder* that maps an energy functional $E_x$ through successive transformations, each revealing a *stronger, deeper invariance class*.
 
 But you’re mixing a few things that can be sharpened so the architecture becomes not only poetic (which it already is) but **mathematically crisp**.
 
