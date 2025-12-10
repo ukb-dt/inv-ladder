@@ -132,7 +132,7 @@ This is “vibes as a mathematical object”.
 
 ---
 
-### **3. $C_x$** — *Identity / Computational Invariance*
+### **3. $C_x$** — *Identity / [Computational](https://ukb-dt.github.io/inv-identity/) Invariance*
 
 The integration constant is:
 
